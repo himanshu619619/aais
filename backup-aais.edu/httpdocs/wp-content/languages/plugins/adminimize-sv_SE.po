@@ -1,0 +1,915 @@
+# Translation of Plugins - Adminimize - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Adminimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-26 20:58:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Adminimize - Stable (latest release)\n"
+
+#: inc-setup/import.php:69
+msgid "It is not possible to find a file in %s"
+msgstr "Det gick inte att hitta någon fil i %s"
+
+#: inc-setup/import.php:60
+msgid "Please upload a valid .json file, Extension check. Your file have the extension %s."
+msgstr "Var vänlig och ladda upp en giltig .json-fil, Filändelsekontroll. Din fil har filändelsen %s."
+
+#: inc-options/write_cp_options.php:137 inc-options/write_page_options.php:125
+#: inc-options/write_post_options.php:129
+msgid "Add New"
+msgstr "Skapa ny"
+
+#: inc-options/theme_options.php:26
+msgid "For better peformance on sites with many users, you should load userlist data before making any changes in the theme options for users."
+msgstr "För bättre prestanda på webbplatser med många användare, bör du ladda användarlistsdatan innan du gör ändringar i temats alternativ för användare."
+
+#: inc-options/self_settings.php:57
+msgid "Show bbPress roles for each area to allow bbPress specific user settings."
+msgstr "Visa bbPress-roller för varje del för att tillåta bbPress-specifika användarinställningar."
+
+#: inc-options/minimenu.php:197
+msgid "You have activated the Plugin for your Multisite Network. By default you will have all active menu items and plugins. The settings are for all network sites, you can set it from any site and it will be set for all network. You should also update the settings on every network site to include every custom items that might exist for each of it."
+msgstr "Du har aktiverat pluginet på ditt multisitenätverk. Som standard så kommer du ha alla aktiva menyval och plugin. Inställningarna är för alla nätverkswebbplatser, du kan sätta de från alla siter och det kommer sättas för hela nätverket. Du borde också uppdatera inställningarna på varje nätverkswebbplats för att inkludera varje anpassat objekt som kan finnas för varje webbplats."
+
+#: inc-options/self_settings.php:71
+msgid "Activate this option to allow access to pages of the back end, even if it's hidden to a user role."
+msgstr "Aktivera det här alternativet för att tillåta åtkomst till sidor i backend, även om det är dolt för en användarroll."
+
+#: inc-options/self_settings.php:62
+msgid "Allow Page Access"
+msgstr "Tillåt sidåtkomst"
+
+#: inc-options/menu_options.php:197
+msgid "After activate the checkbox you will loose its easy access in the menu."
+msgstr "Efter aktiveringen av kryssrutan, så kommer du förlora dess enkla tillgång i menyn."
+
+#: inc-setup/helping_hands.php:204
+msgid "Cheatin&#8217; uh? Sorry, you are not allowed to access this site."
+msgstr "Fuskar du va? Ledsen, du saknar behörighet att komma åt den här webbplatsen."
+
+#: inc-options/menu_options.php:289
+msgid "Possible nomination for the slug. Separate multiple nominations through a carriage return."
+msgstr "Möjlig nominering för permalänken. Fler nomineringar genom radbrytningar."
+
+#: inc-options/self_settings.php:30
+msgid "After activation is it possible to see several information inside the console of the browser for the current active user."
+msgstr "Efter aktivering är det möjligt att se massor av information inuti konsollen på webbläsaren för den nuvarande aktiva användaren."
+
+#: inc-options/self_settings.php:22
+msgid "Active Debug Helper"
+msgstr "Aktivera debughjälparen"
+
+#: inc-options/menu_options.php:303
+msgid "String of the custom slug."
+msgstr "Strängen för den anpassade permalänken."
+
+#: inc-options/menu_options.php:275
+msgid "It is possible to add your own slugs for menu items."
+msgstr "Det är möjligt att lägga till dina egna permalänkar för menyval."
+
+#: inc-options/menu_options.php:269
+msgid "Custom Slug"
+msgstr "Anpassad permalänk"
+
+#: inc-options/menu_options.php:267
+msgid "Slug"
+msgstr "Permalänk"
+
+#: inc-options/menu_options.php:148
+msgid "Custom"
+msgstr "På rad"
+
+#: inc-options/dashboard_options.php:154 inc-options/global_options.php:134
+#: inc-options/links_options.php:135 inc-options/widget_options.php:147
+#: inc-options/wp_nav_menu_options.php:162 inc-options/write_cp_options.php:268
+#: inc-options/write_page_options.php:231
+#: inc-options/write_post_options.php:233
+msgid "Selector, ID or class"
+msgstr "Selektor, ID eller klass"
+
+#: inc-options/dashboard_options.php:152 inc-options/global_options.php:132
+#: inc-options/links_options.php:133 inc-options/widget_options.php:145
+#: inc-options/wp_nav_menu_options.php:160 inc-options/write_cp_options.php:265
+#: inc-options/write_page_options.php:229
+#: inc-options/write_post_options.php:231
+msgid "Option name"
+msgstr "Alternativnamn"
+
+#: inc-options/self_settings.php:48
+msgid "Support bbPress Roles"
+msgstr "Stöd för bbPress-roller"
+
+#: inc-options/self_settings.php:35
+msgid "Support Multiple Roles"
+msgstr "Stöd för multipla roller"
+
+#: inc-options/minimenu.php:36 inc-options/self_settings.php:15
+msgid "Plugin Settings"
+msgstr "Inställningar för insticksmoduler"
+
+#: inc-options/admin_bar_frontend.php:123
+msgid "You must open the front end of the site in this browser in order for the plugin to discover the Admin Bar items that are currently not visible."
+msgstr "Du måste öppna den främre delen av webbplatsen i den här webbläsaren, för att pluginet ska hitta de adminmeny-valen som just nu inte syns."
+
+#: inc-options/minimenu.php:191 inc-options/settings_notice.php:22
+msgid "To view your changes to the menu you need to navigate away from the Adminimize settings page."
+msgstr "För att visa dina ändringar till menyn, så måste du navigera bort från Adminimize-inställningssidan."
+
+#: inc-options/minimenu.php:186 inc-options/settings_notice.php:17
+msgid "Please note: The Adminimize settings page ignores the Menu Options below and displays the menu with all entries."
+msgstr "Vänligen notera: Adminimize-inställningssidan ignorerar menyalternativen nedan och visar menyn med alla inlägg."
+
+#: inc-options/minimenu.php:173
+msgid "You want to thank me? Visit my <a href=\"%1$s\">wishlist</a> or <a href=\"%2$s\">donate</a>."
+msgstr "Vill du tacka mig? Besök min <a href=\"%1$s\">önskelista</a> eller <a href=\"%2$s\">donera</a>."
+
+#: inc-options/minimenu.php:162
+msgid "For more hints about the functions and how to's with the possibilities of the plugin settings see the <a href=\"%s\">FAQ page</a> on the plugin site."
+msgstr "För fler tips om funktionerna och guider med möjligheterna med plugininställningarna, se <a href=\"%s\">FAQ-sidan</a> på pluginsidan."
+
+#: inc-options/minimenu.php:153
+msgid "Further information: Visit the <a href=\"%1$s\">plugin homepage</a> for further information or to grab the latest version of this plugin. Also see the <a href=\"%2$s\">support forum</a> for questions."
+msgstr "För mer information: Besök <a href=\"%1$s\">pluginets hemsida</a> för mer information eller för att hämta den senaste versionen av pluginet. Se även <a href=\"%2$s\">supportforumet</a> för frågor."
+
+#: inc-options/admin_bar.php:29 inc-options/minimenu.php:42
+msgid "Admin Bar Back end Options"
+msgstr "Adminmeny back-endalternativ"
+
+#: inc-options/menu_options.php:33
+msgid "Menu options - Menu, Submenu"
+msgstr "Menyalternativ - Meny, undermeny"
+
+#: inc-options/im_export_options.php:67
+msgid "Choose a \".json\" file from your computer:"
+msgstr "Välj en ”.json”-fil från din dator:"
+
+#: inc-options/im_export_options.php:62
+msgid "After import please reload the page to display also all global values from WordPress."
+msgstr "Ladda om sidan efter importen för att även visa alla globala värden från WordPress."
+
+#: inc-options/im_export_options.php:20
+msgid "You can save a JSON formatted \".json\" file with your settings."
+msgstr "Du kan spara en JSON-formaterad ”.json”-fil med dina inställningar."
+
+#: inc-options/global_options.php:77
+msgid "Admin Notices"
+msgstr "Administrationsnotiser"
+
+#: inc-options/admin_bar_frontend.php:28 inc-options/minimenu.php:48
+msgid "Admin Bar Front end Options"
+msgstr "Adminmeny front-endalternativ"
+
+#: inc-options/admin_bar.php:124
+msgid "Switch to another back-end page and come back to update the options to get all items of the admin bar in the back end area."
+msgstr "Växla till en annan back-endsida och kom tillbaka för att uppdatera alternativen för att hämta alla valen i adminmenyn i back-endområdet."
+
+#: inc-options/admin_bar.php:94 inc-options/admin_bar_frontend.php:93
+#: inc-options/menu_options.php:146
+msgid "Group"
+msgstr "Grupp"
+
+#: inc-options/admin_bar.php:89 inc-options/admin_bar_frontend.php:88
+#: inc-options/dashboard_options.php:121 inc-options/menu_options.php:143
+msgid "No Title!"
+msgstr "Ingen titel!"
+
+#: inc-options/admin_bar.php:54 inc-options/admin_bar_frontend.php:53
+#: inc-options/dashboard_options.php:55 inc-options/global_options.php:41
+#: inc-options/links_options.php:41 inc-options/menu_options.php:42
+#: inc-options/widget_options.php:41 inc-options/wp_nav_menu_options.php:40
+#: inc-options/write_cp_options.php:51 inc-options/write_page_options.php:39
+#: inc-options/write_post_options.php:42
+msgid "Select all"
+msgstr "Markera alla"
+
+#. Author URI of the plugin/theme
+msgid "http://bueltge.de/"
+msgstr "http://bueltge.de/"
+
+#. Author of the plugin/theme
+msgid "Frank Bültge"
+msgstr "Frank Bültge"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/adminimize/"
+msgstr "https://wordpress.org/plugins/adminimize/"
+
+#: inc-setup/remove-admin-bar.php:315 inc-setup/remove-admin-bar.php:317
+msgid "Site Admin"
+msgstr "Webbplatsadministratör"
+
+#: inc-setup/remove-admin-bar.php:311 inc-setup/remove-admin-bar.php:313
+msgid "Network Admin"
+msgstr "Nätverksadministratör"
+
+#: inc-options/write_page_options.php:172
+msgid "Status"
+msgstr "Status"
+
+#: inc-options/write_page_options.php:171
+msgid "Parent, Order, Template"
+msgstr "Överordnad, ordning, mall"
+
+#: inc-options/write_page_options.php:159
+msgid "Page Image"
+msgstr "Sid-bild"
+
+#: inc-options/write_page_options.php:142
+msgid "Page Slug"
+msgstr "Sid-permalänk"
+
+#: inc-options/write_page_options.php:137
+msgid "Related"
+msgstr "Relaterade"
+
+#: inc-options/write_page_options.php:136
+msgid "Page Revisions"
+msgstr "Sid-revisioner"
+
+#: inc-options/write_page_options.php:135
+msgid "Page Author"
+msgstr "Sid-författare"
+
+#: inc-options/write_page_options.php:134
+msgid "Page Order"
+msgstr "Sid-ordning"
+
+#: inc-options/write_page_options.php:133
+msgid "Page Template"
+msgstr "Sid-mall"
+
+#: inc-options/write_page_options.php:132
+msgid "Attributes"
+msgstr "Attribut"
+
+#: inc-options/write_page_options.php:131
+msgid "Password Protect This Page"
+msgstr "Lösenordsskydda denna sida"
+
+#: inc-options/write_page_options.php:130
+#: inc-options/write_page_options.php:167
+#: inc-options/write_post_options.php:135
+msgid "Date"
+msgstr "Datum"
+
+#: inc-options/write_page_options.php:129
+msgid "Comments &amp; Pings"
+msgstr "Kommentarer &amp; Ping"
+
+#: inc-options/write_page_options.php:128
+msgid "Custom Fields"
+msgstr "Anpassade fält"
+
+#: inc-options/write_page_options.php:126
+#: inc-options/write_post_options.php:130
+msgid "Title"
+msgstr "Titel"
+
+#: inc-options/write_cp_options.php:261
+msgid "Your own %s options"
+msgstr "Dina egna %s-alternativ"
+
+#: inc-options/write_cp_options.php:188 inc-options/write_page_options.php:173
+#: inc-options/write_post_options.php:175
+msgid "Cancel/Save Button"
+msgstr "Avbryt/Spara-knapp"
+
+#: inc-options/write_cp_options.php:187 inc-options/write_post_options.php:174
+msgid "Status, Sticky"
+msgstr "Status, klistrad"
+
+#: inc-options/write_cp_options.php:184 inc-options/write_post_options.php:171
+msgid "Categories List"
+msgstr "Kategorilista"
+
+#: inc-options/write_cp_options.php:183 inc-options/write_post_options.php:170
+msgid "Categories Title"
+msgstr "Kategorirubrik"
+
+#: inc-options/write_cp_options.php:181 inc-options/write_page_options.php:169
+#: inc-options/write_post_options.php:168
+msgid "Password and Private"
+msgstr "Lösenord och privat"
+
+#: inc-options/write_cp_options.php:180 inc-options/write_page_options.php:168
+#: inc-options/write_post_options.php:167
+msgid "Author"
+msgstr "Skapare"
+
+#: inc-options/write_cp_options.php:179 inc-options/write_page_options.php:166
+#: inc-options/write_post_options.php:166
+msgid "All Labels"
+msgstr "Alla etiketter"
+
+#: inc-options/write_cp_options.php:178 inc-options/write_cp_options.php:179
+#: inc-options/write_cp_options.php:180 inc-options/write_cp_options.php:181
+#: inc-options/write_cp_options.php:182 inc-options/write_cp_options.php:183
+#: inc-options/write_cp_options.php:184 inc-options/write_cp_options.php:185
+#: inc-options/write_cp_options.php:186 inc-options/write_cp_options.php:187
+#: inc-options/write_cp_options.php:188 inc-options/write_page_options.php:165
+#: inc-options/write_page_options.php:166
+#: inc-options/write_page_options.php:167
+#: inc-options/write_page_options.php:168
+#: inc-options/write_page_options.php:169
+#: inc-options/write_page_options.php:170
+#: inc-options/write_page_options.php:171
+#: inc-options/write_page_options.php:172
+#: inc-options/write_page_options.php:173
+#: inc-options/write_post_options.php:165
+#: inc-options/write_post_options.php:166
+#: inc-options/write_post_options.php:167
+#: inc-options/write_post_options.php:168
+#: inc-options/write_post_options.php:169
+#: inc-options/write_post_options.php:170
+#: inc-options/write_post_options.php:171
+#: inc-options/write_post_options.php:172
+#: inc-options/write_post_options.php:173
+#: inc-options/write_post_options.php:174
+#: inc-options/write_post_options.php:175
+msgid "QE"
+msgstr "SR"
+
+#: inc-options/write_cp_options.php:177 inc-options/write_page_options.php:164
+#: inc-options/write_post_options.php:164
+msgid "Quick Edit Link"
+msgstr "Snabbredigeringslänk"
+
+#: inc-options/write_cp_options.php:168 inc-options/write_post_options.php:159
+msgid "Post Thumbnail"
+msgstr "Inläggstumnagel"
+
+#: inc-options/write_cp_options.php:152 inc-options/write_page_options.php:145
+#: inc-options/write_post_options.php:145
+msgid "HTML Editor Button"
+msgstr "HTML-redigerarknapp"
+
+#: inc-options/write_cp_options.php:151 inc-options/write_page_options.php:144
+#: inc-options/write_post_options.php:144
+msgid "Discussion"
+msgstr "Diskussion"
+
+#: inc-options/write_cp_options.php:149 inc-options/write_post_options.php:142
+msgid "Post Slug"
+msgstr "Inlägg-permalänk"
+
+#: inc-options/write_cp_options.php:148 inc-options/write_page_options.php:141
+#: inc-options/write_post_options.php:141
+msgid "Word count"
+msgstr "Antal ord"
+
+#: inc-options/write_cp_options.php:147 inc-options/write_page_options.php:140
+#: inc-options/write_post_options.php:140
+msgid "Media Buttons (all)"
+msgstr "Mediaknappar (allt)"
+
+#: inc-options/write_cp_options.php:146 inc-options/write_page_options.php:139
+#: inc-options/write_post_options.php:139
+msgid "h2: Advanced Options"
+msgstr "h2: Avancerade alternativ"
+
+#: inc-options/write_cp_options.php:145 inc-options/write_page_options.php:138
+#: inc-options/write_post_options.php:138
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: inc-options/write_cp_options.php:144 inc-options/write_post_options.php:137
+msgid "Related, Shortcuts"
+msgstr "Relaterade, genvägar"
+
+#: inc-options/write_cp_options.php:143 inc-options/write_post_options.php:136
+msgid "Password Protect This Post"
+msgstr "Lösenordsskydda detta inlägg"
+
+#: inc-options/write_cp_options.php:140
+msgid "Format"
+msgstr "Format"
+
+#: inc-options/write_cp_options.php:139 inc-options/write_cp_options.php:186
+#: inc-options/write_post_options.php:132
+#: inc-options/write_post_options.php:173
+msgid "Tags"
+msgstr "Taggar"
+
+#: inc-options/write_cp_options.php:138 inc-options/write_page_options.php:127
+#: inc-options/write_post_options.php:131
+msgid "Permalink"
+msgstr "Permalänk"
+
+#: inc-options/wp_nav_menu_options.php:158
+msgid "Your own Nav Menu options"
+msgstr "Dina egna Nav Menu-alternativ"
+
+#: inc-options/wp_nav_menu_options.php:76
+msgid "Add menu"
+msgstr "Skapa meny"
+
+#: inc-options/wp_nav_menu_options.php:75
+msgid "Custom Links"
+msgstr "Anpassade länkar"
+
+#: inc-options/wp_nav_menu_options.php:74
+#: inc-options/wp_nav_menu_options.php:80
+msgid "Theme Locations"
+msgstr "Temaplatser"
+
+#: inc-options/widget_options.php:143
+msgid "Your own Widget options"
+msgstr "Dina egna widgetalternativ"
+
+#: inc-options/widget_options.php:73
+msgid "Inactive Widgets"
+msgstr "Inaktiva widgetar"
+
+#: inc-options/widget_options.php:72
+msgid "Inactive Sidebar (not used)"
+msgstr "Inaktiverad sidopanel (ej använd)"
+
+#: inc-options/widget_options.php:71
+msgid "Available Widgets"
+msgstr "Tillgängliga widgetar"
+
+#: inc-options/widget_options.php:69 inc-options/wp_nav_menu_options.php:72
+#: inc-options/write_cp_options.php:135 inc-options/write_page_options.php:123
+#: inc-options/write_post_options.php:127
+msgid "Help"
+msgstr "Hjälp"
+
+#: inc-options/theme_options.php:53
+msgid "Role"
+msgstr "Roll"
+
+#: inc-options/theme_options.php:52
+msgid "User Level"
+msgstr "Användarnivå"
+
+#: inc-options/theme_options.php:50
+msgid "Display name publicly as"
+msgstr "Visa namnet publikt som"
+
+#: inc-options/theme_options.php:49
+msgid "Username"
+msgstr "Användarnamn"
+
+#: inc-options/theme_options.php:48
+msgid "User-ID"
+msgstr "Användar-ID"
+
+#: inc-options/theme_options.php:33
+msgid "Load User Data"
+msgstr "Ladda användardata"
+
+#: inc-options/minimenu.php:167
+msgid "The plugin have a github repository to easy add a issue or a create a fork, pull request:"
+msgstr "Pluginet har ett GitHub-projekt för att enkelt kunna lägga till ett ärende eller skapa en fork, pull request:"
+
+#: inc-options/minimenu.php:165
+msgid "Report a issue on the development repository:"
+msgstr "Rapportera ett ärende på utvecklings-projektet:"
+
+#: inc-options/minimenu.php:145
+msgid "Version"
+msgstr "Version"
+
+#: inc-options/theme_options.php:16 inc-options/theme_options.php:122
+msgid "Set Theme"
+msgstr "Sätt tema"
+
+#: inc-options/minimenu.php:117 inc-options/wp_nav_menu_options.php:15
+msgid "WP Nav Menu"
+msgstr "WP Nav Menu"
+
+#: inc-options/minimenu.php:112 inc-options/widget_options.php:16
+msgid "Widgets"
+msgstr "Widgetar"
+
+#: inc-options/minimenu.php:92 inc-options/write_cp_options.php:23
+#: inc-options/write_cp_options.php:42
+msgid "Write options"
+msgstr "Redigeringsalternativ"
+
+#: inc-options/minimenu.php:79 inc-options/write_page_options.php:15
+#: inc-options/write_page_options.php:31
+msgid "Write options - Page"
+msgstr "Redigeringsalternativ - Sida"
+
+#: inc-options/minimenu.php:74 inc-options/write_post_options.php:17
+#: inc-options/write_post_options.php:34
+msgid "Write options - Post"
+msgstr "Redigeringsalternativ - Inlägg"
+
+#: inc-options/minimenu.php:30 inc-options/minimenu.php:139
+msgid "About the plugin"
+msgstr "Om tillägget"
+
+#: inc-options/minimenu.php:25
+msgid "MiniMenu"
+msgstr "MiniMeny"
+
+#: inc-options/minimenu.php:15
+msgid "Network"
+msgstr "Nätverk"
+
+#: inc-options/menu_options.php:16 inc-options/minimenu.php:69
+msgid "Menu Options"
+msgstr "Meny alternativ"
+
+#: inc-options/links_options.php:131
+msgid "Your own Link options"
+msgstr "Dina egna länkalternativ"
+
+#: inc-options/links_options.php:79 inc-options/write_cp_options.php:150
+#: inc-options/write_page_options.php:143
+#: inc-options/write_post_options.php:143
+msgid "Publish Actions"
+msgstr "Publicerings-metoder"
+
+#: inc-options/links_options.php:78
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: inc-options/links_options.php:77
+msgid "Link Relationship (XFN)"
+msgstr "Länkrelationer (XFN)"
+
+#: inc-options/links_options.php:76
+msgid "Target"
+msgstr "Mål"
+
+#: inc-options/links_options.php:74
+msgid "Description"
+msgstr "Beskrivning"
+
+#: inc-options/links_options.php:73
+msgid "Web Address"
+msgstr "Webbadress"
+
+#: inc-options/links_options.php:72
+msgid "Name"
+msgstr "Namn"
+
+#: inc-options/links_options.php:16 inc-options/minimenu.php:105
+msgid "Links options"
+msgstr "Länkalternativ"
+
+#: inc-options/im_export_options.php:78
+msgid "Upload file and import &raquo;"
+msgstr "Ladda upp fil och importera &raquo;"
+
+#: inc-options/im_export_options.php:58
+msgid "Choose a Adminimize (<em>.json</em>) file to upload, then click <em>Upload file and import</em>."
+msgstr "Välj en Adminimize-fil (<em>.json</em>) att ladda upp, klicka sedan <em>Ladda upp fil och importera</em>."
+
+#: inc-options/im_export_options.php:28
+msgid "Export &raquo;"
+msgstr "Exportera &raquo;"
+
+#: inc-options/im_export_options.php:15 inc-options/minimenu.php:122
+msgid "Export/Import Options"
+msgstr "Export/Import-alternativ"
+
+#: inc-options/global_options.php:76 inc-options/theme_options.php:51
+msgid "Admin Color Scheme"
+msgstr "Adminfärgschema"
+
+#: inc-options/global_options.php:75
+msgid "Contextual Help"
+msgstr "Kontextuell hjälp"
+
+#: inc-options/global_options.php:74 inc-options/widget_options.php:70
+#: inc-options/wp_nav_menu_options.php:73 inc-options/write_cp_options.php:136
+#: inc-options/write_page_options.php:124
+#: inc-options/write_post_options.php:128
+msgid "Screen Options"
+msgstr "Skärmalternativ"
+
+#: inc-options/global_options.php:73
+msgid "Screen-Meta"
+msgstr "Skärmmeta"
+
+#: inc-options/global_options.php:72
+msgid "Favorite Actions"
+msgstr "Favorit-metoder"
+
+#: inc-options/global_options.php:71
+msgid "Admin Bar"
+msgstr "Adminmeny"
+
+#: inc-options/global_options.php:16 inc-options/minimenu.php:59
+msgid "Global options"
+msgstr "Globala alternativ"
+
+#: inc-options/deinstall_options.php:27
+msgid "Delete Options"
+msgstr "Ta bort alternativ"
+
+#: inc-options/deinstall_options.php:18
+msgid "Use this option for clean your database from all entries of this plugin. When you deactivate the plugin, the deinstall of the plugin <strong>clean not</strong> all entries in the database."
+msgstr "Använd detta alternativ för att rensa din databas från alla inlägg från det här pluginet. När du inaktiverar pluginet, så kommer avinstallation av pluginet <strong>inte rensa</strong> alla inlägg i databasen."
+
+#: inc-options/deinstall_options.php:15 inc-options/minimenu.php:127
+msgid "Uninstall Options"
+msgstr "Avinstallationsalternativ"
+
+#: inc-options/dashboard_options.php:188 inc-options/global_options.php:163
+#: inc-options/links_options.php:162 inc-options/widget_options.php:174
+#: inc-options/wp_nav_menu_options.php:189 inc-options/write_cp_options.php:306
+#: inc-options/write_page_options.php:258
+#: inc-options/write_post_options.php:260
+msgid "Possible IDs or classes. Separate multiple values through a carriage return."
+msgstr "Möjliga ID:n eller klasser. Separera multipla värden med radbrytning."
+
+#: inc-options/dashboard_options.php:174 inc-options/global_options.php:152
+#: inc-options/links_options.php:152 inc-options/widget_options.php:164
+#: inc-options/wp_nav_menu_options.php:179 inc-options/write_cp_options.php:291
+#: inc-options/write_page_options.php:248
+#: inc-options/write_post_options.php:250
+msgid "Possible nomination for ID or class. Separate multiple nominations through a carriage return."
+msgstr "Möjlig nominering för ID eller klass. Separera multipla nomineringar med radbrytningar."
+
+#: inc-options/dashboard_options.php:160 inc-options/global_options.php:140
+#: inc-options/links_options.php:141 inc-options/widget_options.php:153
+#: inc-options/wp_nav_menu_options.php:168 inc-options/write_cp_options.php:275
+#: inc-options/write_page_options.php:237
+#: inc-options/write_post_options.php:239
+msgid "It is possible to add your own IDs or classes from elements and tags. You can find IDs and classes with the FireBug Add-on for Firefox. Assign a value and the associate name per line."
+msgstr "Det är möjligt att lägga till dina egna ID:n eller klasser från element och taggar. Du kan hitta ID:n och klasser med FireBug-tillägget för FireFox. Tilldela ett värde och associera namnet per rad."
+
+#: inc-options/dashboard_options.php:150 inc-options/global_options.php:130
+#: inc-options/menu_options.php:265 inc-options/write_page_options.php:227
+#: inc-options/write_post_options.php:229
+msgid "Your own options"
+msgstr "Dina egna alternativ"
+
+#: inc-options/dashboard_options.php:27
+msgid "To complete the installation for Dashboard Widgets you must visit your dashboard once and then come back to Settings > Adminimize to configure who has access to each widget."
+msgstr "För att slutföra installationen för adminpanelens widgetar, så måste du besöka din adminpanel en gång och sedan komma tillbaka till Inställningar > Adminimize för att konfigurera vilka som har tillgång till varje widget."
+
+#: inc-options/dashboard_options.php:17 inc-options/minimenu.php:64
+msgid "Dashboard options"
+msgstr "Adminpanelalternativ"
+
+#: inc-options/im_export_options.php:53
+msgid "Import"
+msgstr "Importera"
+
+#: inc-options/im_export_options.php:19
+msgid "Export"
+msgstr "Exportera"
+
+#: inc-options/backend_options.php:238
+msgid "You have deactivated the Dashboard, please select a page for redirection or define custom url, include http://?"
+msgstr "Du har inaktiverat adminpanelen, vänligen välj en sida för omdirigering eller definiera en anpassad URL, inkludera http://?"
+
+#: inc-options/backend_options.php:231
+msgid "Other Page"
+msgstr "Annan sida"
+
+#: inc-options/backend_options.php:227
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: inc-options/backend_options.php:223
+msgid "Write Page"
+msgstr "Redigera sida"
+
+#: inc-options/backend_options.php:219
+msgid "Write Post"
+msgstr "Redigera inlägg"
+
+#: inc-options/backend_options.php:215
+msgid "Manage Pages"
+msgstr "Hantera sidor"
+
+#: inc-options/backend_options.php:211
+msgid "Manage Posts"
+msgstr "Hantera inlägg"
+
+#: inc-options/backend_options.php:197
+msgid "Dashboard deactivate, redirect to"
+msgstr "Adminpanel inaktiverad, omdirigera till"
+
+#: inc-options/backend_options.php:167
+msgid "In the Footer you can display an advice for changing the Default-design, (x)HTML is possible."
+msgstr "I sidfoten så kan du visa råd för att ändra standard-designen, (x)HTML är giltigt."
+
+#: inc-options/backend_options.php:154
+msgid "Advice in Footer"
+msgstr "Råd i sidfoten"
+
+#: inc-options/backend_options.php:147
+msgid "View the Meta Box with Categories in the full height, no scrollbar or whitespace."
+msgstr "Se metaboxen med kategorier i full höjd, ingen scrollbar eller blankrader."
+
+#: inc-options/backend_options.php:135
+msgid "Category Height"
+msgstr "Kategorihöjd"
+
+#: inc-options/backend_options.php:128
+msgid "Opens the post timestamp editing fields without you having to click the \"Edit\" link every time."
+msgstr "Öppnar inläggets tidsstämpelsredigeringsfält utan att du behöver klicka på ”Redigera”-länken varje gång."
+
+#: inc-options/backend_options.php:116
+msgid "Timestamp"
+msgstr "Tidsstämpel"
+
+#: inc-options/backend_options.php:110
+msgid "The Footer-area can hide, include all links and details."
+msgstr "Sidfotsdelen kan döljas, inklusive alla länkar och detaljer."
+
+#: inc-options/backend_options.php:98
+msgid "Footer"
+msgstr "Sidfot"
+
+#: inc-options/backend_options.php:89
+msgid "Frontpage of the Blog"
+msgstr "Framsida för bloggen"
+
+#: inc-options/backend_options.php:76
+msgid "Change User-Info, redirect to"
+msgstr "Ändra användarinformation, omdirigera till"
+
+#: inc-options/backend_options.php:65
+msgid "User &amp; Logout"
+msgstr "Användare &amp; Logga ut"
+
+#: inc-options/backend_options.php:62
+msgid "Only logout"
+msgstr "Enbart logga ut"
+
+#: inc-options/backend_options.php:59 inc-options/backend_options.php:108
+msgid "Hide"
+msgstr "Dölj"
+
+#: inc-options/backend_options.php:48
+msgid "User-Info"
+msgstr "Användarinfo"
+
+#: inc-options/backend_options.php:40
+msgid "Exclude the Super Admin on a WP Multisite Install from all limitations of this plugin."
+msgstr "Exkludera superadministratören för en WP multisite-installation från alla begränsningar i pluginet."
+
+#: inc-options/backend_options.php:39 inc-options/backend_options.php:127
+#: inc-options/backend_options.php:146 inc-options/backend_options.php:163
+msgid "Activate"
+msgstr "Aktivera"
+
+#: inc-options/backend_options.php:36 inc-options/backend_options.php:56
+#: inc-options/backend_options.php:85 inc-options/backend_options.php:104
+#: inc-options/backend_options.php:124 inc-options/backend_options.php:143
+#: inc-options/backend_options.php:160 inc-options/backend_options.php:207
+msgid "Default"
+msgstr "Standard"
+
+#: inc-options/backend_options.php:28
+msgid "Exclude Super Admin"
+msgstr "Exkludera superadministatör"
+
+#: inc-options/backend_options.php:16 inc-options/minimenu.php:54
+msgid "Backend Options"
+msgstr "Backendalternativ"
+
+#: inc-options/admin_bar.php:139 inc-options/admin_bar_frontend.php:143
+#: inc-options/backend_options.php:256 inc-options/dashboard_options.php:208
+#: inc-options/deinstall_options.php:36 inc-options/global_options.php:180
+#: inc-options/im_export_options.php:89 inc-options/links_options.php:178
+#: inc-options/menu_options.php:320 inc-options/minimenu.php:206
+#: inc-options/self_settings.php:85 inc-options/theme_options.php:130
+#: inc-options/widget_options.php:190 inc-options/wp_nav_menu_options.php:205
+#: inc-options/write_cp_options.php:326 inc-options/write_page_options.php:273
+#: inc-options/write_post_options.php:276
+msgid "scroll to top"
+msgstr "rulla till toppen"
+
+#: inc-options/admin_bar.php:132 inc-options/admin_bar_frontend.php:136
+#: inc-options/backend_options.php:250 inc-options/dashboard_options.php:200
+#: inc-options/global_options.php:173 inc-options/links_options.php:172
+#: inc-options/menu_options.php:314 inc-options/self_settings.php:78
+#: inc-options/widget_options.php:184 inc-options/wp_nav_menu_options.php:199
+#: inc-options/write_cp_options.php:320 inc-options/write_page_options.php:268
+#: inc-options/write_post_options.php:270
+msgid "Update Options"
+msgstr "Uppdatera Inställningar"
+
+#: inc-options/admin_bar.php:49 inc-options/admin_bar_frontend.php:48
+#: inc-options/dashboard_options.php:50 inc-options/global_options.php:36
+#: inc-options/links_options.php:36 inc-options/menu_options.php:36
+#: inc-options/widget_options.php:36 inc-options/wp_nav_menu_options.php:35
+#: inc-options/write_cp_options.php:46 inc-options/write_page_options.php:34
+#: inc-options/write_post_options.php:37
+msgid "Deactivate for"
+msgstr "Inaktivera för"
+
+#: inc-options/admin_bar.php:46 inc-options/admin_bar_frontend.php:45
+#: inc-options/dashboard_options.php:47 inc-options/global_options.php:33
+#: inc-options/links_options.php:33 inc-options/widget_options.php:33
+#: inc-options/wp_nav_menu_options.php:32
+msgid "Option"
+msgstr "Alternativ"
+
+#: inc-options/admin_bar.php:27 inc-options/admin_bar.php:28
+#: inc-options/admin_bar_frontend.php:26 inc-options/admin_bar_frontend.php:27
+#: inc-options/backend_options.php:15 inc-options/dashboard_options.php:16
+#: inc-options/deinstall_options.php:14 inc-options/global_options.php:15
+#: inc-options/im_export_options.php:14 inc-options/links_options.php:15
+#: inc-options/menu_options.php:15 inc-options/minimenu.php:24
+#: inc-options/minimenu.php:138 inc-options/self_settings.php:14
+#: inc-options/theme_options.php:14 inc-options/theme_options.php:15
+#: inc-options/widget_options.php:15 inc-options/wp_nav_menu_options.php:14
+#: inc-options/write_cp_options.php:21 inc-options/write_page_options.php:14
+#: inc-options/write_post_options.php:15 inc-options/write_post_options.php:16
+msgid "Click to toggle"
+msgstr "Klicka för att växla"
+
+#. #-#-#-#-#  adminimize-code.pot (Adminimize 1.11.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: adminimize.php:1129 inc-options/minimenu.php:19
+msgid "Adminimize"
+msgstr "Adminimize"
+
+#: adminimize.php:1128
+msgid "Adminimize Options"
+msgstr "Adminimize-alternativ"
+
+#: adminimize.php:1114
+msgid "Settings"
+msgstr "Inställningar"
+
+#: adminimize.php:1057 inc-setup/remove-admin-bar.php:63
+#: inc-setup/remove-admin-bar.php:105 inc-setup/remove-admin-bar.php:326
+#: inc-setup/remove-admin-bar.php:328
+msgid "Log Out"
+msgstr "Logga Ut"
+
+#: adminimize.php:532
+msgid "Dashboard"
+msgstr "Adminpanel"
+
+#: inc-options/write_cp_options.php:142 inc-options/write_post_options.php:134
+msgid "Add New Category"
+msgstr "Skapa ny kategori"
+
+#: inc-options/links_options.php:75 inc-options/write_cp_options.php:141
+#: inc-options/write_post_options.php:133
+msgid "Categories"
+msgstr "Kategorier"
+
+#: adminimize.php:202
+msgid "Blocked"
+msgstr "Blockerad"
+
+#: adminimize.php:201
+msgid "Spectator"
+msgstr "Åskådare"
+
+#: adminimize.php:200
+msgid "Participant"
+msgstr "Deltagare"
+
+#: adminimize.php:199
+msgid "Moderator"
+msgstr "Moderator"
+
+#: adminimize.php:198
+msgid "Keymaster"
+msgstr "Nyckelmästare"
+
+#: inc-setup/messages.php:73
+msgid "Load user data to themes was successful."
+msgstr "Laddade användardatan till temana med framgång."
+
+#: inc-setup/messages.php:71
+msgid "Backend-Theme was activated!"
+msgstr "Back-endtemat blev aktiverat!"
+
+#: inc-setup/messages.php:69
+msgid "Can't load menu and submenu."
+msgstr "Kan inte ladda meny och undermenyer."
+
+#: inc-setup/messages.php:66
+msgid "Set the checkbox on deinstall-button."
+msgstr "Sätt kryssrutan på avinstallationsknappen."
+
+#: inc-setup/messages.php:63
+msgid "All entries in the database were deleted."
+msgstr "Alla inlägg i databasen blev borttagna."
+
+#: inc-setup/messages.php:60
+msgid "All entries in the database were imported."
+msgstr "Alla inläggen i databasen blev importerade."
+
+#: inc-setup/messages.php:57
+msgid "You have not enough rights to edit entries in the database."
+msgstr "Du har inte rättigheter nog att redigera inlägg i databasen."
+
+#: inc-setup/messages.php:54
+msgid "The updates were saved."
+msgstr "Uppdateringarna blev sparade."
+
+#: inc-setup/messages.php:43
+msgid "Unknown error."
+msgstr "Okänt fel."
